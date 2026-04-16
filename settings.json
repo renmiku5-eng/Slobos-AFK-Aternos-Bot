@@ -8,7 +8,7 @@
   "server": {
     "ip": "vactions-smp.aternos.me",
     "port": 22987,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
